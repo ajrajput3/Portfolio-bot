@@ -1,0 +1,90 @@
+{
+ "version": 1,
+ "models": {
+  "A": {
+   "cash": 10000.0,
+   "realized": 0.0,
+   "n": 0,
+   "wins": 0,
+   "peak": 10000.0,
+   "dd": 0.0,
+   "skipped": 0
+  },
+  "B": {
+   "cash": 10000.0,
+   "realized": 0.0,
+   "n": 0,
+   "wins": 0,
+   "peak": 10000.0,
+   "dd": 0.0,
+   "skipped": 0
+  }
+ },
+ "positions": [],
+ "coins": {
+  "BTCUSDT": {
+   "last_ts": 1791069300000
+  },
+  "ETHUSDT": {
+   "last_ts": 1791069300000
+  },
+  "SOLUSDT": {
+   "last_ts": 1791069300000
+  },
+  "BNBUSDT": {
+   "last_ts": 1791069300000
+  },
+  "XRPUSDT": {
+   "last_ts": 1791069300000
+  },
+  "DOGEUSDT": {
+   "last_ts": 1791069300000
+  },
+  "ADAUSDT": {
+   "last_ts": 1791069300000
+  },
+  "AVAXUSDT": {
+   "last_ts": 1791069300000
+  },
+  "LINKUSDT": {
+   "last_ts": 1791069300000
+  },
+  "DOTUSDT": {
+   "last_ts": 1791069300000
+  },
+  "LTCUSDT": {
+   "last_ts": 1791069300000
+  },
+  "TRXUSDT": {
+   "last_ts": 1791069300000
+  },
+  "ATOMUSDT": {
+   "last_ts": 1791069300000
+  },
+  "NEARUSDT": {
+   "last_ts": 1791069300000
+  },
+  "APTUSDT": {
+   "last_ts": 1791069300000
+  },
+  "ARBUSDT": {
+   "last_ts": 1791069300000
+  },
+  "OPUSDT": {
+   "last_ts": 1791069300000
+  },
+  "SUIUSDT": {
+   "last_ts": 1791069300000
+  },
+  "AAVEUSDT": {
+   "last_ts": 1791069300000
+  },
+  "INJUSDT": {
+   "last_ts": 1791069300000
+  }
+ },
+ "seen": 0,
+ "day": "2026-10-03",
+ "started": true,
+ "warned": false
+}
