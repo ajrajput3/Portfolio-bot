@@ -2,89 +2,130 @@
  "version": 1,
  "models": {
   "A": {
-   "cash": 10000.0,
+   "cash": 0.0,
    "realized": 0.0,
    "n": 0,
    "wins": 0,
-   "peak": 10000.0,
+   "peak": 10014.14,
    "dd": 0.0,
-   "skipped": 0
+   "skipped": 2
   },
   "B": {
-   "cash": 10000.0,
+   "cash": 4000.0,
    "realized": 0.0,
    "n": 0,
    "wins": 0,
-   "peak": 10000.0,
+   "peak": 10009.16,
    "dd": 0.0,
    "skipped": 0
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "model": "A",
+   "sym": "LTCUSDT",
+   "side": "long",
+   "entry": 70.74,
+   "stop": 67.55669999999999,
+   "target": 75.51495,
+   "margin": 10000.0,
+   "entry_ts": 1791081900000
+  },
+  {
+   "model": "B",
+   "sym": "LTCUSDT",
+   "side": "long",
+   "entry": 70.74,
+   "stop": 67.55669999999999,
+   "target": 75.51495,
+   "margin": 2000.0,
+   "entry_ts": 1791081900000
+  },
+  {
+   "model": "B",
+   "sym": "TRXUSDT",
+   "side": "short",
+   "entry": 0.3355,
+   "stop": 0.3505975,
+   "target": 0.31285375000000004,
+   "margin": 2000.0,
+   "entry_ts": 1791081900000
+  },
+  {
+   "model": "B",
+   "sym": "XRPUSDT",
+   "side": "long",
+   "entry": 1.4896,
+   "stop": 1.422568,
+   "target": 1.5901480000000001,
+   "margin": 2000.0,
+   "entry_ts": 1791081900000
+  }
+ ],
  "coins": {
   "BTCUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "ETHUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "SOLUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "BNBUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "XRPUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "DOGEUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "ADAUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "AVAXUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "LINKUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "DOTUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "LTCUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "TRXUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "ATOMUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "NEARUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "APTUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "ARBUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "OPUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "SUIUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "AAVEUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   },
   "INJUSDT": {
-   "last_ts": 1791069300000
+   "last_ts": 1791081000000
   }
  },
- "seen": 0,
- "day": "2026-10-03",
+ "seen": 3,
+ "day": "2026-10-04",
  "started": true,
  "warned": false
 }
